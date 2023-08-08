@@ -2,6 +2,6 @@
 #include <stdio.h>
 
 int main() {
-  printf("hello,world");
-  printf("中文编码测试。");
+    printf("hello,world");
+    printf("中文编码测试。");
 }

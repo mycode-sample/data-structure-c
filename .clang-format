@@ -1,2 +1,5 @@
 # 默认情况下，vscode的c/cpp扩展会先寻找工作目录下的配置文件，没有就会使用默认值visual studio.
 BasedOnStyle: "Google"
+AllowShortFunctionsOnASingleLine: Empty
+IndentWidth: 4
+ContinuationIndentWidth: 8
