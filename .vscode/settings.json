@@ -1,12 +1,12 @@
 {
-  "files.associations": {
-    "*.h": "c",
-    "*.c": "c",
-    "*.cpp": "c"
-  }
-  // 默认使用vscode的cpp扩展中自带的clang-format格式化代码，风格是visual studio.
-  // "editor.defaultFormatter": "xaver.clang-format",
-  // "clang-format.executable": "D:\\Program Files\\LLVM\\bin\\clang-format.exe",
-  // // Visual Studio, LLVM, Google, Chromium, Mozilla, WebKit, Microsoft, GNU
-  // "C_Cpp.clang_format_style": "Google"
+    "files.associations": {
+        "*.h": "c",
+        "*.c": "c",
+        "*.cpp": "c"
+    }
+    // 默认使用vscode的cpp扩展中自带的clang-format格式化代码，风格是visual studio.
+    // "editor.defaultFormatter": "xaver.clang-format",
+    // "clang-format.executable": "D:\\Program Files\\LLVM\\bin\\clang-format.exe",
+    // // Visual Studio, LLVM, Google, Chromium, Mozilla, WebKit, Microsoft, GNU
+    // "C_Cpp.clang_format_style": "Google"
 }
